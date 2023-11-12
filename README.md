@@ -40,4 +40,10 @@
 　　Spinbox is determined by pressing the side button.  
 
 　**(b)Path settings**  
-　　
+　　「箱にパスを設定」: Set paths to boxes.  
+　　![IMG_EditPath](https://github.com/toro-video/EUW_RandomBoxPlugin/blob/images/IMG_EditPath.png)  
+  
+　　The folder selected in the content browser is added to the box by pressing the 'パスを追加' button.  
+　　The object where the static mesh contained under the folder you have added will be placed.  
+　　*Pressing the 'パスを削除' button deletes the path registered in the box.  
+  
